@@ -511,6 +511,11 @@ img {
   color: var(--seconday-txt-color);
 }
 
+.services__item-desc {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .process {
   display: -webkit-box;
   display: -ms-flexbox;
